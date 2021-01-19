@@ -16,6 +16,9 @@ Telecommunication standards and technologies for internet access
 - https://de.wikipedia.org/wiki/Digital_Subscriber_Line#DSL-Varianten
 - https://kompendium.infotip.de/dsl-technik.html
 
+## Info
+- Deutsche Telekom nutzt ausschließlich ?
+
 ## Standards
 
 ### DT AG 1TR112
@@ -26,14 +29,17 @@ Telecommunication standards and technologies for internet access
 ### ITU-T G.992.1
 - G.dmt Annex A und Annex B (ADSL)
 - https://www.itu.int/rec/T-REC-G.992.1
+- https://www.itu.int/ITU-T/recommendations/rec.aspx?id=4718
 
 ### ITU-T G.992.3
 - Annex A, Annex B, Annex J und Annex M (ADSL2)
 - https://www.itu.int/rec/T-REC-G.992.3
+- https://www.itu.int/ITU-T/recommendations/rec.aspx?id=9652
 
 ### ITU-T G.992.5
 - Annex A, Annex B, Annex J und Annex M (ADSL2+)
 - https://www.itu.int/rec/T-REC-G.992.5
+- https://www.itu.int/ITU-T/recommendations/rec.aspx?id=9653
 
 ### ITU-T G.993.2
 - VDSL2 (Annex A and Annex B)
@@ -54,6 +60,7 @@ Telecommunication standards and technologies for internet access
 ### ITU-T G.998.4
 - G.INP (with VDSL2-Vectoring)
 - https://www.itu.int/rec/T-REC-G.998.4
+- https://www.itu.int/ITU-T/recommendations/rec.aspx?id=13754
 
 ## Devices
 ### Fritzbox 7490
