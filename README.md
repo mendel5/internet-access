@@ -9,7 +9,7 @@ Telecommunication standards and technologies for internet access
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=13747
 - https://www.elektronik-kompendium.de/sites/kom/1911061.htm
 - https://en.wikipedia.org/wiki/VDSL
-
+- https://de.wikipedia.org/wiki/Very_High_Speed_Digital_Subscriber_Line
 
 ### ITU-T G.993.5
 - Vectoring (VDSL2-Vectoring)
@@ -17,7 +17,7 @@ Telecommunication standards and technologies for internet access
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=13748
 - https://www.elektronik-kompendium.de/sites/kom/1804231.htm
 - https://en.wikipedia.org/wiki/VDSL#VDSL2_vectoring
-
+- https://de.wikipedia.org/wiki/VDSL2-Vectoring
 
 ## Devices
 ### Fritzbox 7490
