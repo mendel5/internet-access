@@ -1,6 +1,13 @@
 # internet-access
 Telecommunication standards and technologies for internet access
 
+## Todo
+- BNG
+- RAM (7490)
+- DPBO
+- Profiles 17a, 35b, Supervectoring, Vplus, V+
+
+
 ## Standards
 
 ### ITU-T G.993.2
