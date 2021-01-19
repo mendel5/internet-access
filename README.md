@@ -41,15 +41,27 @@ Supported DSL technologies
 ### Fritzbox 7590
 - DSL
 - https://avm.de/service/fritzbox/fritzbox-7590/wissensdatenbank/publication/show/37_Unterstutzte-DSL-Anschlusse/
+```
+placeholder
+```
 
 ### Fritzbox 6591
 - Cable
 - https://avm.de/service/fritzbox/fritzbox-6591-cable/wissensdatenbank/publication/show/37_Unterstutzte-Kabelanschlusse/
+```
+placeholder
+```
 
 ### Fritzbox 5530
 - Fiber
 - https://avm.de/service/fritzbox/fritzbox-5530-fiber/wissensdatenbank/publication/show/37_Unterstutzte-Glasfaseranschlusse/
+```
+placeholder
+```
 
 ### Fritzbox 6890
 - LTE
 - https://avm.de/service/fritzbox/fritzbox-6890-lte/wissensdatenbank/publication/show/37_Unterstutzte-Internetanschlusse/
+```
+placeholder
+```
