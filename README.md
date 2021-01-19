@@ -5,7 +5,7 @@ Telecommunication standards and technologies for internet access
 ### Liste
 - BNG
 - RAM (7490)
-- DPBO
+- DPBO G.997.1
 - Profiles 17a, 35b, Supervectoring, Vplus, V+
 - POTS, ISDN
 - xDSL
@@ -19,15 +19,21 @@ Telecommunication standards and technologies for internet access
 ## Standards
 
 ### DT AG 1TR112
+- Technische Richtlinie der Telekom
+- https://www.telekom.de/hilfe/geraete-zubehoer/telefone-und-anlagen/informationen-zu-telefonanlagen/schnittstellenbeschreibungen-fuer-hersteller
+- https://de.wikipedia.org/wiki/DSL-Modem#1TR112_%E2%80%93_die_U-R2-Schnittstelle_der_Deutschen_Telekom
 
 ### ITU-T G.992.1
 - G.dmt Annex A und Annex B (ADSL)
+- https://www.itu.int/rec/T-REC-G.992.1
 
 ### ITU-T G.992.3
 - Annex A, Annex B, Annex J und Annex M (ADSL2)
+- https://www.itu.int/rec/T-REC-G.992.3
 
 ### ITU-T G.992.5
 - Annex A, Annex B, Annex J und Annex M (ADSL2+)
+- https://www.itu.int/rec/T-REC-G.992.5
 
 ### ITU-T G.993.2
 - VDSL2 (Annex A and Annex B)
@@ -47,6 +53,7 @@ Telecommunication standards and technologies for internet access
 
 ### ITU-T G.998.4
 - G.INP (with VDSL2-Vectoring)
+- https://www.itu.int/rec/T-REC-G.998.4
 
 ## Devices
 ### Fritzbox 7490
