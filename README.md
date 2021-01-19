@@ -17,7 +17,7 @@ Telecommunication standards and technologies for internet access
 - https://kompendium.infotip.de/dsl-technik.html
 
 ## Info
-- Deutsche Telekom nutzt ausschließlich ?
+- ADSL2 und VDSL1 werden in Deutschland nicht angeboten.
 
 ## Standards
 
