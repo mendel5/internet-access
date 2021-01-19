@@ -2,11 +2,19 @@
 Telecommunication standards and technologies for internet access
 
 ## Todo
+### Liste
 - BNG
 - RAM (7490)
 - DPBO
 - Profiles 17a, 35b, Supervectoring, Vplus, V+
+- POTS, ISDN
+- xDSL
+- MSAN, DSLAM
 
+### Links
+- https://de.wikipedia.org/wiki/G.992.1
+- https://de.wikipedia.org/wiki/Digital_Subscriber_Line#DSL-Varianten
+- https://kompendium.infotip.de/dsl-technik.html
 
 ## Standards
 
