@@ -62,7 +62,9 @@ Supported DSL technologies
 - Cable
 - https://avm.de/service/fritzbox/fritzbox-6591-cable/wissensdatenbank/publication/show/37_Unterstutzte-Kabelanschlusse/
 ```
-placeholder
+Supported cable standards
+- DOCSIS 3.1
+- EuroDOCSIS 3.0
 ```
 
 ### Fritzbox 5530
