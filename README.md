@@ -42,7 +42,20 @@ Supported DSL technologies
 - DSL
 - https://avm.de/service/fritzbox/fritzbox-7590/wissensdatenbank/publication/show/37_Unterstutzte-DSL-Anschlusse/
 ```
-placeholder
+Supported DSL standards
+- DT AG 1TR112 Annex B und Annex J (ADSL / ADSL2 / ADSL2+ / VDSL2)
+- ITU G.993.2 Annex Q (Supervectoring 35b)
+- ITU G.998.4 / G.INP (VDSL2-Vectoring)
+- ITU G.993.5 / G.Vector (VDSL2-Vectoring)
+- ITU G.993.2 Annex A und Annex B (VDSL2)
+- ITU G.992.5 Annex A, Annex B, Annex J und Annex M (ADSL2+)
+- ITU G.992.3 Annex A, Annex B, Annex J und Annex M (ADSL2)
+- ITU G.992.1 / G.dmt Annex A und Annex B (ADSL)
+
+Supported DSL technologies
+- VDSL Long Reach (LR-VDSL2)
+- ADSL Rate Adaptive Mode (RAM)
+- ADSL Downstream Power Back Off (DPBO)
 ```
 
 ### Fritzbox 6591
