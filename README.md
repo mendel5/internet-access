@@ -8,8 +8,6 @@ Telecommunication standards and technologies for internet access
 - https://www.itu.int/rec/T-REC-G.993.2
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=13747
 - https://www.elektronik-kompendium.de/sites/kom/1911061.htm
-
-
 - https://en.wikipedia.org/wiki/VDSL
 
 
@@ -18,7 +16,7 @@ Telecommunication standards and technologies for internet access
 - https://www.itu.int/rec/T-REC-G.993.5
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=13748
 - https://www.elektronik-kompendium.de/sites/kom/1804231.htm
-
+- https://en.wikipedia.org/wiki/VDSL#VDSL2_vectoring
 
 
 ## Devices
