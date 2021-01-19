@@ -78,7 +78,7 @@ Supported DSL technologies
 - https://avm.de/service/fritzbox/fritzbox-6591-cable/wissensdatenbank/publication/show/37_Unterstutzte-Kabelanschlusse/
 ```
 Supported cable standards
-- DOCSIS 3.1
+- DOCSIS 3.1 (ITU-T J.222)
 - EuroDOCSIS 3.0
 ```
 
