@@ -3,8 +3,19 @@ Telecommunication standards and technologies for internet access
 
 ## Standards
 
+### DT AG 1TR112
+
+### ITU-T G.992.1
+- G.dmt Annex A und Annex B (ADSL)
+
+### ITU-T G.992.3
+- Annex A, Annex B, Annex J und Annex M (ADSL2)
+
+### ITU-T G.992.5
+- Annex A, Annex B, Annex J und Annex M (ADSL2+)
+
 ### ITU-T G.993.2
-- VDSL2
+- VDSL2 (Annex A and Annex B)
 - https://www.itu.int/rec/T-REC-G.993.2
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=13747
 - https://www.elektronik-kompendium.de/sites/kom/1911061.htm
@@ -12,12 +23,15 @@ Telecommunication standards and technologies for internet access
 - https://de.wikipedia.org/wiki/Very_High_Speed_Digital_Subscriber_Line
 
 ### ITU-T G.993.5
-- Vectoring (VDSL2-Vectoring)
+- Vectoring (VDSL2-Vectoring, G.Vector)
 - https://www.itu.int/rec/T-REC-G.993.5
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=13748
 - https://www.elektronik-kompendium.de/sites/kom/1804231.htm
 - https://en.wikipedia.org/wiki/VDSL#VDSL2_vectoring
 - https://de.wikipedia.org/wiki/VDSL2-Vectoring
+
+### ITU-T G.998.4
+- G.INP (with VDSL2-Vectoring)
 
 ## Devices
 ### Fritzbox 7490
