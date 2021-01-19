@@ -71,7 +71,14 @@ Supported cable standards
 - Fiber
 - https://avm.de/service/fritzbox/fritzbox-5530-fiber/wissensdatenbank/publication/show/37_Unterstutzte-Glasfaseranschlusse/
 ```
-placeholder
+Supported fiber standards
+- ITU-T G.652 (AON)
+- ITU-T G.984.2 / G.984.5 (GPON)
+- ITU-T G.9807.1 (XGS-PON)
+- ITU-T G.989 (NG-PON)
+- IEEE 802.3ah-2004 (ePON)
+- Turbo Mode ePON
+- 1000BASE-BX10
 ```
 
 ### Fritzbox 6890
