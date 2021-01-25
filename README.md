@@ -15,6 +15,7 @@ Telecommunication standards and technologies for internet access
 - https://de.wikipedia.org/wiki/G.992.1
 - https://de.wikipedia.org/wiki/Digital_Subscriber_Line#DSL-Varianten
 - https://kompendium.infotip.de/dsl-technik.html
+- https://www.nokia.com/about-us/newsroom/articles/open-ran-explained/
 
 ## Info
 - ADSL2 und VDSL1 werden in Deutschland nicht angeboten.
@@ -27,17 +28,17 @@ Telecommunication standards and technologies for internet access
 - https://de.wikipedia.org/wiki/DSL-Modem#1TR112_%E2%80%93_die_U-R2-Schnittstelle_der_Deutschen_Telekom
 
 ### ITU-T G.992.1
-- G.dmt Annex A und Annex B (ADSL)
+- G.dmt Annex A and Annex B (ADSL)
 - https://www.itu.int/rec/T-REC-G.992.1
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=4718
 
 ### ITU-T G.992.3
-- Annex A, Annex B, Annex J und Annex M (ADSL2)
+- Annex A, Annex B, Annex J and Annex M (ADSL2)
 - https://www.itu.int/rec/T-REC-G.992.3
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=9652
 
 ### ITU-T G.992.5
-- Annex A, Annex B, Annex J und Annex M (ADSL2+)
+- Annex A, Annex B, Annex J and Annex M (ADSL2+)
 - https://www.itu.int/rec/T-REC-G.992.5
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=9653
 
@@ -68,13 +69,13 @@ Telecommunication standards and technologies for internet access
 - https://avm.de/service/fritzbox/fritzbox-7490/wissensdatenbank/publication/show/37_Unterstutzte-DSL-Anschlusse/
 ```
 Supported DSL standards
-- DT AG 1TR112 Annex B und Annex J (ADSL / ADSL2 / ADSL2+ / VDSL2)
+- DT AG 1TR112 Annex B and Annex J (ADSL / ADSL2 / ADSL2+ / VDSL2)
 - ITU G.998.4 / G.INP (VDSL2-Vectoring)
 - ITU G.993.5 / G.Vector (VDSL2-Vectoring)
-- ITU G.993.2 Annex A und Annex B (VDSL2)
-- ITU G.992.5 Annex A, Annex B, Annex J und Annex M (ADSL2+)
-- ITU G.992.3 Annex A, Annex B, Annex J und Annex M (ADSL2)
-- ITU G.992.1 / G.dmt Annex A und Annex B (ADSL)
+- ITU G.993.2 Annex A and Annex B (VDSL2)
+- ITU G.992.5 Annex A, Annex B, Annex J and Annex M (ADSL2+)
+- ITU G.992.3 Annex A, Annex B, Annex J and Annex M (ADSL2)
+- ITU G.992.1 / G.dmt Annex A and Annex B (ADSL)
 
 Supported DSL technologies
 - ADSL Rate Adaptive Mode (RAM)
@@ -86,14 +87,14 @@ Supported DSL technologies
 - https://avm.de/service/fritzbox/fritzbox-7590/wissensdatenbank/publication/show/37_Unterstutzte-DSL-Anschlusse/
 ```
 Supported DSL standards
-- DT AG 1TR112 Annex B und Annex J (ADSL / ADSL2 / ADSL2+ / VDSL2)
+- DT AG 1TR112 Annex B and Annex J (ADSL / ADSL2 / ADSL2+ / VDSL2)
 - ITU G.993.2 Annex Q (Supervectoring 35b)
 - ITU G.998.4 / G.INP (VDSL2-Vectoring)
 - ITU G.993.5 / G.Vector (VDSL2-Vectoring)
-- ITU G.993.2 Annex A und Annex B (VDSL2)
-- ITU G.992.5 Annex A, Annex B, Annex J und Annex M (ADSL2+)
-- ITU G.992.3 Annex A, Annex B, Annex J und Annex M (ADSL2)
-- ITU G.992.1 / G.dmt Annex A und Annex B (ADSL)
+- ITU G.993.2 Annex A and Annex B (VDSL2)
+- ITU G.992.5 Annex A, Annex B, Annex J and Annex M (ADSL2+)
+- ITU G.992.3 Annex A, Annex B, Annex J and Annex M (ADSL2)
+- ITU G.992.1 / G.dmt Annex A and Annex B (ADSL)
 
 Supported DSL technologies
 - VDSL Long Reach (LR-VDSL2)
