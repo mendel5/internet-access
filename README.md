@@ -16,6 +16,7 @@ Telecommunication standards and technologies for internet access
 - https://de.wikipedia.org/wiki/Digital_Subscriber_Line#DSL-Varianten
 - https://kompendium.infotip.de/dsl-technik.html
 - https://www.nokia.com/about-us/newsroom/articles/open-ran-explained/
+- https://wade4wireless.com/2018/07/05/what-are-open-ran-systems-pros-and-cons/
 
 ## Info
 - ADSL2 und VDSL1 werden in Deutschland nicht angeboten.
