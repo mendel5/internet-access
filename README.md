@@ -8,7 +8,6 @@ Telecommunication standards and technologies for internet access
 - DPBO G.997.1
 - Profiles 17a, 35b, Supervectoring, Vplus, V+
 - POTS, ISDN
-- xDSL
 - MSAN, DSLAM
 
 ### Links
