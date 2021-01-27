@@ -2,7 +2,7 @@
 Telecommunication standards and technologies for internet access
 
 ## Todo
-### Liste
+### List
 - BNG
 - RAM (7490)
 - DPBO G.997.1
