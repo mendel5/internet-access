@@ -12,12 +12,15 @@ Telecommunication standards and technologies for internet access
 - MSAN, DSLAM
 
 ### Links
-- https://de.wikipedia.org/wiki/G.992.1
-- https://de.wikipedia.org/wiki/Digital_Subscriber_Line#DSL-Varianten
 - https://kompendium.infotip.de/dsl-technik.html
 
-## Info
-- ADSL2 und VDSL1 werden in Deutschland nicht angeboten.
+## Overview
+- DSL: https://en.wikipedia.org/wiki/Digital_subscriber_line#DSL_technologies and https://de.wikipedia.org/wiki/Digital_Subscriber_Line#DSL-Varianten
+- Cable: https://en.wikipedia.org/wiki/DOCSIS#Versions
+- Fibre GPON: https://en.wikipedia.org/wiki/G.984
+- Mobile 3G: https://en.wikipedia.org/wiki/3G
+- Mobile 4G: https://en.wikipedia.org/wiki/4G
+- Mobile 5G: https://en.wikipedia.org/wiki/5G
 
 ## Standards
 
@@ -30,6 +33,7 @@ Telecommunication standards and technologies for internet access
 - G.dmt Annex A and Annex B (ADSL)
 - https://www.itu.int/rec/T-REC-G.992.1
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=4718
+- https://en.wikipedia.org/wiki/G.992.1
 
 ### ITU-T G.992.3
 - Annex A, Annex B, Annex J and Annex M (ADSL2)
@@ -63,24 +67,6 @@ Telecommunication standards and technologies for internet access
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=13754
 
 ## Devices
-### Fritzbox 7490
-- DSL
-- https://avm.de/service/fritzbox/fritzbox-7490/wissensdatenbank/publication/show/37_Unterstutzte-DSL-Anschlusse/
-```
-Supported DSL standards
-- DT AG 1TR112 Annex B and Annex J (ADSL / ADSL2 / ADSL2+ / VDSL2)
-- ITU G.998.4 / G.INP (VDSL2-Vectoring)
-- ITU G.993.5 / G.Vector (VDSL2-Vectoring)
-- ITU G.993.2 Annex A and Annex B (VDSL2)
-- ITU G.992.5 Annex A, Annex B, Annex J and Annex M (ADSL2+)
-- ITU G.992.3 Annex A, Annex B, Annex J and Annex M (ADSL2)
-- ITU G.992.1 / G.dmt Annex A and Annex B (ADSL)
-
-Supported DSL technologies
-- ADSL Rate Adaptive Mode (RAM)
-- ADSL Downstream Power Back Off (DPBO)
-```
-
 ### Fritzbox 7590
 - DSL
 - https://avm.de/service/fritzbox/fritzbox-7590/wissensdatenbank/publication/show/37_Unterstutzte-DSL-Anschlusse/
@@ -97,6 +83,24 @@ Supported DSL standards
 
 Supported DSL technologies
 - VDSL Long Reach (LR-VDSL2)
+- ADSL Rate Adaptive Mode (RAM)
+- ADSL Downstream Power Back Off (DPBO)
+```
+
+### Fritzbox 7490
+- DSL
+- https://avm.de/service/fritzbox/fritzbox-7490/wissensdatenbank/publication/show/37_Unterstutzte-DSL-Anschlusse/
+```
+Supported DSL standards
+- DT AG 1TR112 Annex B and Annex J (ADSL / ADSL2 / ADSL2+ / VDSL2)
+- ITU G.998.4 / G.INP (VDSL2-Vectoring)
+- ITU G.993.5 / G.Vector (VDSL2-Vectoring)
+- ITU G.993.2 Annex A and Annex B (VDSL2)
+- ITU G.992.5 Annex A, Annex B, Annex J and Annex M (ADSL2+)
+- ITU G.992.3 Annex A, Annex B, Annex J and Annex M (ADSL2)
+- ITU G.992.1 / G.dmt Annex A and Annex B (ADSL)
+
+Supported DSL technologies
 - ADSL Rate Adaptive Mode (RAM)
 - ADSL Downstream Power Back Off (DPBO)
 ```
@@ -166,3 +170,6 @@ Unterstützte DSL-Technologien
 - https://wade4wireless.com/2018/07/05/what-are-open-ran-systems-pros-and-cons/
 - https://www.golem.de/news/netzwerke-warum-5g-nicht-das-bessere-wi-fi-ist-1912-145178.html
 - https://www.golem.de/news/billige-mobilfunkstationen-open-ran-ist-veraltet-und-nuetzt-derzeit-vor-allem-den-usa-2101-153625.html
+
+### Info
+- ADSL2 und VDSL1 werden in Deutschland nicht angeboten.
