@@ -3,9 +3,10 @@ Telecommunication standards and technologies for internet access
 
 ## Todo
 ### List
-- BNG
-- RAM (7490)
-- DPBO G.997.1
+- Broadband Network Gateway (BNG)
+- Rate Adaptive Mode (RAM)
+- Downstream Power Backoff (DPBO) G.997.1
+- Power Spectrum Density Shaping (PSDS)
 - Profiles 17a, 35b, Supervectoring, Vplus, V+
 - POTS, ISDN
 - MSAN, DSLAM
