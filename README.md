@@ -25,6 +25,7 @@ Telecommunication standards and technologies for internet access
 - Voice over LTE (VoLTE)
 - GSM
 - UTMS
+- Next-generation network (NGN)
 
 ### Links
 - https://kompendium.infotip.de/dsl-technik.html
