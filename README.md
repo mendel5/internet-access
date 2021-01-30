@@ -9,6 +9,17 @@ Telecommunication standards and technologies for internet access
 - Profiles 17a, 35b, Supervectoring, Vplus, V+
 - POTS, ISDN
 - MSAN, DSLAM
+- ONT, OLT
+- APL
+- EVz
+- TAE
+- FTTC, FTTB, FTTH
+- Generic Access Network (GAN)
+- Unlicensed Mobile Access (UMA)
+- WiFi Calling/ VoWiFi 
+- VoLTE
+- GSM
+- UTMS
 
 ### Links
 - https://kompendium.infotip.de/dsl-technik.html
