@@ -8,17 +8,21 @@ Telecommunication standards and technologies for internet access
 - Downstream Power Backoff (DPBO) G.997.1
 - Power Spectrum Density Shaping (PSDS)
 - Profiles 17a, 35b, Supervectoring, Vplus, V+
-- POTS, ISDN
-- MSAN, DSLAM
+- Plain Old Telephone Service (POTS)
+- Integrated Services Digital Network (ISDN)
+- Multi-Service Access Node (MSAN)
+- Digital Subscriber Line Access Multiplexer (DSLAM)
 - ONT, OLT
-- APL
-- EVz
-- TAE
-- FTTC, FTTB, FTTH
+- Abschlusspunkt Linientechnik (APL)
+- Endverzweiger (EVz)
+- Telekommunikations-Anschluss-Einheit (TAE)
+- Fibre to the curb (FTTC)
+- Fibre to the building (FTTB)
+- Fibre to the home (FTTH)
 - Generic Access Network (GAN)
 - Unlicensed Mobile Access (UMA)
-- WiFi Calling/ VoWiFi 
-- VoLTE
+- WiFi Calling/ Voice over WiFi (VoWiFi)
+- Voice over LTE (VoLTE)
 - GSM
 - UTMS
 
