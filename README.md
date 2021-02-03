@@ -15,7 +15,7 @@ Telecommunication standards and technologies for internet access
 - Multi-Service Access Node (MSAN)
 - Digital Subscriber Line Access Multiplexer (DSLAM)
 - ONT
-- OLT
+- Optical Line Termination (OLT)
 - Abschlusspunkt Linientechnik (APL)
 - Endverzweiger (EVz)
 - Telekommunikations-Anschluss-Einheit (TAE)
