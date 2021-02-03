@@ -7,12 +7,15 @@ Telecommunication standards and technologies for internet access
 - Rate Adaptive Mode (RAM)
 - Downstream Power Backoff (DPBO) G.997.1
 - Power Spectrum Density Shaping (PSDS)
-- Profiles 17a, 35b, Supervectoring, Vplus, V+
+- Profile 17a
+- Profile 35b
+- Supervectoring, Vplus, V+
 - Plain Old Telephone Service (POTS)
 - Integrated Services Digital Network (ISDN)
 - Multi-Service Access Node (MSAN)
 - Digital Subscriber Line Access Multiplexer (DSLAM)
-- ONT, OLT
+- ONT
+- OLT
 - Abschlusspunkt Linientechnik (APL)
 - Endverzweiger (EVz)
 - Telekommunikations-Anschluss-Einheit (TAE)
