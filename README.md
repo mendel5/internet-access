@@ -29,6 +29,8 @@ Telecommunication standards and technologies for internet access
 - GSM
 - UTMS
 - Next-generation network (NGN)
+- Public switched telephone network (PSTN)
+- Public land mobile network (PLMN)
 
 ### Links
 - https://kompendium.infotip.de/dsl-technik.html
