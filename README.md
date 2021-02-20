@@ -38,17 +38,17 @@ Telecommunication standards and technologies for internet access
 - VDSL2: Annex A, Annex B and Annex Q (Supervectoring 35b)
 - https://www.itu.int/rec/T-REC-G.993.2
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=13747
-- https://www.elektronik-kompendium.de/sites/kom/1911061.htm
 - https://en.wikipedia.org/wiki/VDSL
 - https://de.wikipedia.org/wiki/Very_High_Speed_Digital_Subscriber_Line
+- https://www.elektronik-kompendium.de/sites/kom/1911061.htm
 
 ### ITU-T G.993.5
 - Vectoring (VDSL2-Vectoring, G.Vector)
 - https://www.itu.int/rec/T-REC-G.993.5
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=13748
-- https://www.elektronik-kompendium.de/sites/kom/1804231.htm
 - https://en.wikipedia.org/wiki/VDSL#VDSL2_vectoring
 - https://de.wikipedia.org/wiki/VDSL2-Vectoring
+- https://www.elektronik-kompendium.de/sites/kom/1804231.htm
 
 ### ITU-T G.998.4
 - G.INP (with VDSL2-Vectoring, INP = impulse noise protection)
