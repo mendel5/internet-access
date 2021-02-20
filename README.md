@@ -55,6 +55,9 @@ Telecommunication standards and technologies for internet access
 - https://www.itu.int/rec/T-REC-G.998.4
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=13754
 
+### ITU-T J.222
+- DOCSIS 3.0
+
 ## Devices
 ### Fritzbox 7590
 - DSL
