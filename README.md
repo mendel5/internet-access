@@ -192,9 +192,8 @@ Unterstützte DSL-Technologien
 - Rate Adaptive Mode (RAM)
 - Downstream Power Backoff (DPBO) G.997.1
 - Power Spectrum Density Shaping (PSDS)
-- Profile 17a
-- Profile 35b
-- Supervectoring, Vplus, V+
+- VDSL2 Profile 17a
+- VDSL2 Profile 35b (Supervectoring, Vplus, V+)
 - Plain Old Telephone Service (POTS)
 - Integrated Services Digital Network (ISDN)
 - Multi-Service Access Node (MSAN)
