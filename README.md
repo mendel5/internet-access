@@ -51,23 +51,23 @@ Telecommunication standards and technologies for internet access
 - https://de.wikipedia.org/wiki/DSL-Modem#1TR112_%E2%80%93_die_U-R2-Schnittstelle_der_Deutschen_Telekom
 
 ### ITU-T G.992.1
-- G.dmt Annex A and Annex B (ADSL)
+- ADSL: Annex A and Annex B (G.dmt)
 - https://www.itu.int/rec/T-REC-G.992.1
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=4718
 - https://en.wikipedia.org/wiki/G.992.1
 
 ### ITU-T G.992.3
-- Annex A, Annex B, Annex J and Annex M (ADSL2)
+- ADSL2: Annex A, Annex B, Annex J and Annex M
 - https://www.itu.int/rec/T-REC-G.992.3
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=9652
 
 ### ITU-T G.992.5
-- Annex A, Annex B, Annex J and Annex M (ADSL2+)
+- ADSL2+: Annex A, Annex B, Annex J and Annex M
 - https://www.itu.int/rec/T-REC-G.992.5
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=9653
 
 ### ITU-T G.993.2
-- VDSL2 (Annex A and Annex B)
+- VDSL2: Annex A and Annex B
 - https://www.itu.int/rec/T-REC-G.993.2
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=13747
 - https://www.elektronik-kompendium.de/sites/kom/1911061.htm
