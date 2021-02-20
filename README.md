@@ -58,6 +58,12 @@ Telecommunication standards and technologies for internet access
 ### ITU-T J.222
 - DOCSIS 3.0
 
+### ITU-T G.984
+- GPON
+
+### ITU-T G.652
+- AON
+
 ## Devices
 ### Fritzbox 7590
 - DSL
