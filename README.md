@@ -57,12 +57,20 @@ Telecommunication standards and technologies for internet access
 
 ### ITU-T J.222
 - DOCSIS 3.0
+- https://www.itu.int/rec/T-REC-J.222.1/
+- https://en.wikipedia.org/wiki/DOCSIS
 
 ### ITU-T G.984
 - GPON
+- https://www.itu.int/rec/T-REC-G.984.1
+- https://en.wikipedia.org/wiki/G.984
+- https://www.elektronik-kompendium.de/sites/kom/1403181.htm
 
 ### ITU-T G.652
 - AON
+- https://www.itu.int/rec/T-REC-G.652/
+- https://www.itu.int/itu-t/recommendations/rec.aspx?rec=13076
+- https://en.wikipedia.org/wiki/G.652
 
 ## Devices
 ### Fritzbox 7590
