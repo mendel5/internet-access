@@ -35,7 +35,7 @@ Telecommunication standards and technologies for internet access
 - https://en.wikipedia.org/wiki/G.992.5
 
 ### ITU-T G.993.2
-- VDSL2: Annex A and Annex B
+- VDSL2: Annex A, Annex B and Annex Q (Supervectoring 35b)
 - https://www.itu.int/rec/T-REC-G.993.2
 - https://www.itu.int/ITU-T/recommendations/rec.aspx?id=13747
 - https://www.elektronik-kompendium.de/sites/kom/1911061.htm
