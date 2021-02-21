@@ -190,7 +190,7 @@ Unterstützte DSL-Technologien
 ### List
 - Broadband Network Gateway (BNG)
 - Rate Adaptive Mode (RAM)
-- Downstream Power Backoff (DPBO) G.997.1
+- Downstream Power Backoff (DPBO), G.997.1
 - Power Spectrum Density Shaping (PSDS)
 - VDSL2 Profile 17a
 - VDSL2 Profile 35b (Supervectoring, Vplus, V+)
@@ -198,7 +198,7 @@ Unterstützte DSL-Technologien
 - Integrated Services Digital Network (ISDN)
 - Multi-Service Access Node (MSAN)
 - Digital Subscriber Line Access Multiplexer (DSLAM)
-- ONT
+- Optical Network Termination (ONT)
 - Optical Line Termination (OLT)
 - Abschlusspunkt Linientechnik (APL)
 - Endverzweiger (EVz)
@@ -213,8 +213,8 @@ Unterstützte DSL-Technologien
 - Unlicensed Mobile Access (UMA)
 - WiFi Calling/ Voice over WiFi (VoWiFi)
 - Voice over LTE (VoLTE)
-- GSM
-- UTMS
+- Global System for Mobile Communications (GSM)
+- Universal Mobile Telecommunications System (UTMS)
 - Next-generation network (NGN)
 - Public switched telephone network (PSTN)
 - Public land mobile network (PLMN)
