@@ -4,7 +4,7 @@ Telecommunication standards and technologies for internet access
 ## Overview
 - DSL: https://en.wikipedia.org/wiki/Digital_subscriber_line#DSL_technologies and https://de.wikipedia.org/wiki/Digital_Subscriber_Line#DSL-Varianten
 - Cable: https://en.wikipedia.org/wiki/DOCSIS#Versions
-- Fibre GPON: https://en.wikipedia.org/wiki/G.984
+- Fibre GPON: https://en.wikipedia.org/wiki/Passive_optical_network and https://en.wikipedia.org/wiki/G.984
 - Mobile 3G: https://en.wikipedia.org/wiki/3G
 - Mobile 4G: https://en.wikipedia.org/wiki/4G
 - Mobile 5G: https://en.wikipedia.org/wiki/5G
