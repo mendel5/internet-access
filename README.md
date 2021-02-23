@@ -8,7 +8,7 @@ Telecommunication standards and technologies for internet access
 - Mobile 2G (GSM): https://en.wikipedia.org/wiki/2G
 - Mobile 3G (UMTS): https://en.wikipedia.org/wiki/3G
 - Mobile 4G (LTE): https://en.wikipedia.org/wiki/4G
-- Mobile 5G: https://en.wikipedia.org/wiki/5G
+- Mobile 5G (NR): https://en.wikipedia.org/wiki/5G
 - Overview: https://en.wikipedia.org/wiki/Comparison_of_mobile_phone_standards and https://de.wikipedia.org/wiki/Mobilfunkstandard
 
 ## Standards
