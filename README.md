@@ -184,6 +184,7 @@ Unterstützte DSL-Technologien
 - https://wade4wireless.com/2018/07/05/what-are-open-ran-systems-pros-and-cons/
 - https://www.golem.de/news/netzwerke-warum-5g-nicht-das-bessere-wi-fi-ist-1912-145178.html
 - https://www.golem.de/news/billige-mobilfunkstationen-open-ran-ist-veraltet-und-nuetzt-derzeit-vor-allem-den-usa-2101-153625.html
+- https://en.wikipedia.org/wiki/Radio_spectrum and https://de.wikipedia.org/wiki/Frequenzband
 
 ### Info
 - ADSL2 and VDSL1 have not been supported in Germany.
