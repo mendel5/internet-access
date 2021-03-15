@@ -10,6 +10,7 @@ Telecommunication standards and technologies for internet access
 - Mobile 4G (LTE): https://en.wikipedia.org/wiki/4G
 - Mobile 5G (NR): https://en.wikipedia.org/wiki/5G
 - Overview: https://en.wikipedia.org/wiki/Comparison_of_mobile_phone_standards and https://de.wikipedia.org/wiki/Mobilfunkstandard
+- Templates: https://en.wikipedia.org/wiki/Template:Telecommunications and https://en.wikipedia.org/wiki/Template:DSL_technologies
 
 ## Standards
 
