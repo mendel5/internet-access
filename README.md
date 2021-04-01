@@ -79,6 +79,8 @@ Telecommunication standards and technologies for internet access
 ### Fritzbox 7590
 - DSL
 - https://avm.de/produkte/fritzbox/fritzbox-7590/
+- https://geizhals.de/avm-fritz-box-7590-20002784-a1596115.html
+
 ```
 Supported DSL standards
 - DT AG 1TR112 Annex B and Annex J (ADSL / ADSL2 / ADSL2+ / VDSL2)
@@ -119,6 +121,8 @@ Supported DSL technologies
 ### Fritzbox 6591
 - Cable
 - https://avm.de/produkte/fritzbox/fritzbox-6591-cable/
+- https://geizhals.de/avm-fritz-box-6591-cable-20002857-a1631879.html
+
 ```
 Supported cable standards
 - DOCSIS 3.1 (ITU-T J.222)
@@ -129,6 +133,8 @@ Supported cable standards
 ### Fritzbox 5530
 - Fiber
 - https://avm.de/produkte/fritzbox/fritzbox-5530-fiber/
+- https://geizhals.de/avm-fritz-box-5530-a2127125.html
+
 ```
 Supported fiber standards
 - ITU-T G.652 (AON)
@@ -144,6 +150,8 @@ Supported fiber standards
 ### Fritzbox 6890
 - LTE
 - https://avm.de/produkte/fritzbox/fritzbox-6890-lte/
+- https://geizhals.de/avm-fritz-box-6890-lte-20002817-a1680140.html
+
 ```
 # Mobile network
 Supported LTE frequencies
