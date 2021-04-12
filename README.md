@@ -230,6 +230,7 @@ Unterstützte DSL-Technologien
 - Next-generation network (NGN)
 - Public switched telephone network (PSTN)
 - Public land mobile network (PLMN)
+- Teilnehmeranschlussleitung (TAL / Local loop)
 
 ### Links
 - https://kompendium.infotip.de/dsl-technik.html
