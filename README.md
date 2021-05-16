@@ -193,6 +193,9 @@ Unterstützte DSL-Technologien
 - https://www.golem.de/news/netzwerke-warum-5g-nicht-das-bessere-wi-fi-ist-1912-145178.html
 - https://www.golem.de/news/billige-mobilfunkstationen-open-ran-ist-veraltet-und-nuetzt-derzeit-vor-allem-den-usa-2101-153625.html
 - https://en.wikipedia.org/wiki/Radio_spectrum and https://de.wikipedia.org/wiki/Frequenzband
+- https://kompendium.infotip.de/dsl-technik.html
+- https://news.ycombinator.com/item?id=27171860
+- https://fabiensanglard.net/lte/index.html
 
 ### Info
 - ADSL2 and VDSL1 have not been supported in Germany.
@@ -231,6 +234,3 @@ Unterstützte DSL-Technologien
 - Public switched telephone network (PSTN)
 - Public land mobile network (PLMN)
 - Teilnehmeranschlussleitung (TAL / Local loop)
-
-### Links
-- https://kompendium.infotip.de/dsl-technik.html
