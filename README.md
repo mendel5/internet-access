@@ -200,6 +200,26 @@ Unterstützte DSL-Technologien
 ### Info
 - ADSL2 and VDSL1 have not been supported in Germany.
 
+### Images
+Example images for certain technologies
+
+- DSL
+  - [Image 1](https://abload.de/img/img_20170525_135903krsd9.jpg), [Backup](https://web.archive.org/web/20210520152647/https://abload.de/img/img_20170525_135903krsd9.jpg), [Backup](https://archive.is/40uQV)
+  - [Image 2](https://images.gutefrage.net/media/fragen/bilder/dsl-dose-ab-wo-kommen-die-zwei-kabel-hin/1_big.jpg), [Backup](https://web.archive.org/web/20210520152944/https://images.gutefrage.net/media/fragen/bilder/dsl-dose-ab-wo-kommen-die-zwei-kabel-hin/1_big.jpg), [Backup](https://archive.is/klGWY)
+  - [Image 3](https://www.lteforum.at/attachments/201908-jpg.20482/)
+  - [Image 4](https://www.hausjournal.net/wp-content/uploads/telefonkabel-anschliessen.jpg)
+- Cable
+  - [Image 1](https://www.ksb.com/blob/187668/64ee1e774109a17f87644d59f84fa568/koaxialkabel-1-data.jpg)
+  - [Image 2](https://upload.wikimedia.org/wikipedia/commons/0/08/Coaxial_cable_cut.jpg)
+  - [Image 3](https://www.reichelt.de/magazin/wp-content/uploads/2018/03/Ethernet-over-coax.png)
+  - [Image 4](https://i.ebayimg.com/images/g/NcUAAOSwlP5gi9mB/s-l1600.jpg)
+- Fibre GPON
+  - [Image 1](https://www.birnstiel.de/wp-content/uploads/2017/02/12135293-lowres-Ausschnitt-Faser-ohne-Mantel-1024x983-1.jpg)
+  - [Image 2](https://www.birnstiel.de/wp-content/uploads/2020/01/20191220-Patch_1.jpg)
+  - [Image 3](https://i.ebayimg.com/00/s/MTQ5N1gxNjAw/z/JjQAAOSw8BpgDBvR/$_57.JPG)
+  - [Image 4](https://heise.cloudimg.io/width/4959/q75.png-lossy-75.webp-lossy-75.foil1/_www-heise-de_/imgs/18/3/0/6/8/9/7/2/glasfaserfritz_114422_ea_jg_e-c0892ea42cec372e.jpeg)
+  - [Image 5](https://www.hardwareluxx.de/images/stories/newsbilder/aschilling/2016/ftth-conference-avm-3.jpg)
+
 ## Todo
 
 ### List
