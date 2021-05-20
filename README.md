@@ -244,7 +244,7 @@ Example images for certain technologies
 - Hausübergabepunkt (HÜP)
 - Glasfaser-Teilnehmeranschluss (GF-TA)
 - Glasfaser-Anschlusspunkt (GF-AP)
-- Network Terminator (NT)
+- Network Termination (NT)
 - Generic Access Network (GAN)
 - Unlicensed Mobile Access (UMA)
 - WiFi Calling/ Voice over WiFi (VoWiFi)
