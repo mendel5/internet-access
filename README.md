@@ -243,6 +243,7 @@ Example images for certain technologies
 - Fibre to the home (FTTH)
 - Hausübergabepunkt (HÜP)
 - Glasfaser-Teilnehmeranschluss (GF-TA)
+- Glasfaser-Anschlusspunkt (GF-AP)
 - Network Terminator (NT)
 - Generic Access Network (GAN)
 - Unlicensed Mobile Access (UMA)
