@@ -196,7 +196,8 @@ Unterstützte DSL-Technologien
 - https://kompendium.infotip.de/dsl-technik.html
 - https://news.ycombinator.com/item?id=27171860
 - https://fabiensanglard.net/lte/index.html
-- https://t-map.telekom.de/tmap2/coverage_checker/
+- https://t-map.telekom.de/tmap/resources/apps/coverage_checker/index.html - Old Telekom Coverage map
+- https://t-map.telekom.de/tmap2/coverage_checker/ - New Telekom Coverage map
 
 ### Info
 - ADSL2 and VDSL1 have not been supported in Germany.
