@@ -84,6 +84,29 @@ Telecommunication standards and technologies for internet access
 - https://en.wikipedia.org/wiki/G.652
 
 ## Devices
+
+### Fritzbox 7590 AX
+- DSL
+- https://avm.de/produkte/fritzbox/fritzbox-7590-ax/
+- https://geizhals.de/avm-fritz-box-7590-ax-a2520878.html
+
+```
+Supported DSL standards
+- DT AG 1TR112 Annex B und Annex J (ADSL2 / ADSL2+ / VDSL2)
+- ITU G.993.2 Annex Q (Supervectoring 35b)
+- ITU G.998.4 / G.INP (VDSL2-Vectoring)
+- ITU G.993.5 / G.Vector (VDSL2-Vectoring)
+- ITU G.993.2 Annex A und Annex B (VDSL2)
+- ITU G.992.5 Annex A, Annex B, Annex J und Annex M (ADSL2+)
+- ITU G.992.3 Annex A, Annex B, Annex J und Annex M (ADSL2)
+
+Supported DSL technologies
+- VDSL Long Reach (LR-VDSL2)
+- ADSL Rate Adaptive Mode (RAM)
+- ADSL Downstream Power Back Off (DPBO)
+```
+- Source: https://avm.de/service/fritzbox/fritzbox-7590-ax/wissensdatenbank/publication/show/37_Unterstutzte-DSL-Anschlusse/
+
 ### Fritzbox 7590
 - DSL
 - https://avm.de/produkte/fritzbox/fritzbox-7590/
