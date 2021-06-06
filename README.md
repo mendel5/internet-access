@@ -257,6 +257,8 @@ Unterstützte DSL-Technologien
 - https://t-map.telekom.de/tmap/resources/apps/coverage_checker/index.html - Old Telekom Coverage map
 - https://t-map.telekom.de/tmap2/coverage_checker/ - New Telekom Coverage map
 - https://www.birnstiel.de/glasfaser/
+- https://www.glasfaser-internet.info/technik/aon-pon-gpon.html
+- https://www.deskmodder.de/blog/2021/01/19/deutsche-glasfaser-unverschaemte-einschraenkungen-kosten-fuer-routerfreiheit/
 
 ### Info
 - ADSL2 and VDSL1 have not been supported in Germany.
