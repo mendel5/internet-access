@@ -29,8 +29,8 @@ Example images for certain technologies
   - [Image 3](https://www.lteforum.at/attachments/201908-jpg.20482/), [Backup](https://web.archive.org/web/20210520160625/https://www.lteforum.at/attachments/201908-jpg.20482/)
   - [Image 4](https://abload.de/img/img_20170525_135903krsd9.jpg), [Backup](https://web.archive.org/web/20210520152647/https://abload.de/img/img_20170525_135903krsd9.jpg)
 - Cable (TV cable)
-  - [Image 1](https://www.ksb.com/blob/187668/64ee1e774109a17f87644d59f84fa568/koaxialkabel-1-data.jpg), [Backup](https://web.archive.org/web/20210520160607/https://www.ksb.com/blob/187668/64ee1e774109a17f87644d59f84fa568/koaxialkabel-1-data.jpg)
-  - [Image 2](https://upload.wikimedia.org/wikipedia/commons/0/08/Coaxial_cable_cut.jpg), [Backup](https://web.archive.org/web/20210520160609/https://upload.wikimedia.org/wikipedia/commons/0/08/Coaxial_cable_cut.jpg)
+  - [Image 1](https://upload.wikimedia.org/wikipedia/commons/0/08/Coaxial_cable_cut.jpg), [Backup](https://web.archive.org/web/20210520160609/https://upload.wikimedia.org/wikipedia/commons/0/08/Coaxial_cable_cut.jpg)
+  - [Image 2](https://www.ksb.com/blob/187668/64ee1e774109a17f87644d59f84fa568/koaxialkabel-1-data.jpg), [Backup](https://web.archive.org/web/20210520160607/https://www.ksb.com/blob/187668/64ee1e774109a17f87644d59f84fa568/koaxialkabel-1-data.jpg)
   - [Image 3](https://www.reichelt.de/magazin/wp-content/uploads/2018/03/Ethernet-over-coax.png), [Backup](https://web.archive.org/web/20210520160611/https://www.reichelt.de/magazin/wp-content/uploads/2018/03/Ethernet-over-coax.png)
   - [Image 4](https://i.ebayimg.com/images/g/NcUAAOSwlP5gi9mB/s-l1600.jpg), [Backup](https://web.archive.org/web/20210520160612/https://i.ebayimg.com/images/g/NcUAAOSwlP5gi9mB/s-l1600.jpg)
 - Fibre GPON
