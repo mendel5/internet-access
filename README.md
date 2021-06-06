@@ -104,8 +104,14 @@ Supported DSL technologies
 - VDSL Long Reach (LR-VDSL2)
 - ADSL Rate Adaptive Mode (RAM)
 - ADSL Downstream Power Back Off (DPBO)
+
+Changes compared to the 7590 (non-AX):
+> Zwei alte Zöpfe hat AVM bei der 7590 AX aber abgeschnitten:
+> Das xDSL-Modem unterstützt kein ADSL1 (max. 8 MBit/s) mehr.
+> Auch läuft das Gerät an keiner der noch wenigen verbliebenen ISDN-Amtsleitungen.
 ```
 - Source: https://avm.de/service/fritzbox/fritzbox-7590-ax/wissensdatenbank/publication/show/37_Unterstutzte-DSL-Anschlusse/
+- Source: https://www.heise.de/news/Fritzbox-7590-AX-AVMs-erster-WLAN-Router-mit-Wi-Fi-6-und-4-MIMO-Streams-6035850.html
 
 ### Fritzbox 7590
 - DSL
