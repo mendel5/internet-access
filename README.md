@@ -105,7 +105,7 @@ Supported DSL technologies
 - ADSL Rate Adaptive Mode (RAM)
 - ADSL Downstream Power Back Off (DPBO)
 
-Changes compared to the 7590 (non-AX):
+Changes of the 7590 AX compared to the 7590 (non-AX):
 > Zwei alte Zöpfe hat AVM bei der 7590 AX aber abgeschnitten:
 > Das xDSL-Modem unterstützt kein ADSL1 (max. 8 MBit/s) mehr.
 > Auch läuft das Gerät an keiner der noch wenigen verbliebenen ISDN-Amtsleitungen.
