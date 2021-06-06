@@ -259,6 +259,7 @@ Unterstützte DSL-Technologien
 - https://www.birnstiel.de/glasfaser/
 - https://www.glasfaser-internet.info/technik/aon-pon-gpon.html
 - https://www.deskmodder.de/blog/2021/01/19/deutsche-glasfaser-unverschaemte-einschraenkungen-kosten-fuer-routerfreiheit/
+- https://www.finanztip.de/blog/nl_2021kw22/#pfp1
 
 ### Info
 - ADSL2 and VDSL1 have not been supported in Germany.
