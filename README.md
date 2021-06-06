@@ -11,7 +11,7 @@ Telecommunication standards and technologies for internet access
 
 ## Technology overview
 - DSL: https://en.wikipedia.org/wiki/Digital_subscriber_line#DSL_technologies and https://de.wikipedia.org/wiki/Digital_Subscriber_Line#DSL-Varianten
-- Cable: https://en.wikipedia.org/wiki/DOCSIS#Versions
+- Cable (TV cable): https://en.wikipedia.org/wiki/DOCSIS#Versions
 - Fibre GPON: https://en.wikipedia.org/wiki/Passive_optical_network and https://en.wikipedia.org/wiki/G.984
 - Mobile 2G (GSM): https://en.wikipedia.org/wiki/2G
 - Mobile 3G (UMTS): https://en.wikipedia.org/wiki/3G
