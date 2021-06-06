@@ -35,10 +35,11 @@ Example images for certain technologies
   - [Image 4](https://i.ebayimg.com/images/g/NcUAAOSwlP5gi9mB/s-l1600.jpg), [Backup](https://web.archive.org/web/20210520160612/https://i.ebayimg.com/images/g/NcUAAOSwlP5gi9mB/s-l1600.jpg)
 - Fibre GPON
   - [Backup A](https://archive.is/N9QjC), [Backup B](https://web.archive.org/web/20210520160616/https://www.birnstiel.de/wp-content/uploads/2017/02/12135293-lowres-Ausschnitt-Faser-ohne-Mantel-1024x983-1.jpg), [Image 1](https://www.birnstiel.de/wp-content/uploads/2017/02/12135293-lowres-Ausschnitt-Faser-ohne-Mantel-1024x983-1.jpg)
-  - [Image 2](https://www.birnstiel.de/wp-content/uploads/2020/01/20191220-Patch_1.jpg), [Backup](https://web.archive.org/web/20210520160618/https://www.birnstiel.de/wp-content/uploads/2020/01/20191220-Patch_1.jpg)
-  - [Image 3](https://i.ebayimg.com/00/s/MTQ5N1gxNjAw/z/JjQAAOSw8BpgDBvR/$_57.JPG), [Backup](https://web.archive.org/web/20210520160620/https://i.ebayimg.com/00/s/MTQ5N1gxNjAw/z/JjQAAOSw8BpgDBvR/$_57.JPG)
-  - [Image 4](https://heise.cloudimg.io/width/4959/q75.png-lossy-75.webp-lossy-75.foil1/_www-heise-de_/imgs/18/3/0/6/8/9/7/2/glasfaserfritz_114422_ea_jg_e-c0892ea42cec372e.jpeg), [Backup](https://web.archive.org/web/20210320141456/https://heise.cloudimg.io/width/4959/q75.png-lossy-75.webp-lossy-75.foil1/_www-heise-de_/imgs/18/3/0/6/8/9/7/2/glasfaserfritz_114422_ea_jg_e-c0892ea42cec372e.jpeg)
-  - [Image 5](https://www.hardwareluxx.de/images/stories/newsbilder/aschilling/2016/ftth-conference-avm-3.jpg), [Backup](https://web.archive.org/web/20210520161209/https://www.hardwareluxx.de/images/stories/newsbilder/aschilling/2016/ftth-conference-avm-3.jpg)
+  - [Backup A](https://archive.is/4eYl0), [Backup B](https://web.archive.org/web/20210606123115/https://www.birnstiel.de/wp-content/uploads/2017/02/12135287-lowres-Ausschnitt-Faser-mit-Mantel-1024x682-1.jpg), [Image 2](https://www.birnstiel.de/wp-content/uploads/2017/02/12135287-lowres-Ausschnitt-Faser-mit-Mantel-1024x682-1.jpg)
+  - [Image 3](https://www.birnstiel.de/wp-content/uploads/2020/01/20191220-Patch_1.jpg), [Backup](https://web.archive.org/web/20210520160618/https://www.birnstiel.de/wp-content/uploads/2020/01/20191220-Patch_1.jpg)
+  - [Image 4](https://i.ebayimg.com/00/s/MTQ5N1gxNjAw/z/JjQAAOSw8BpgDBvR/$_57.JPG), [Backup](https://web.archive.org/web/20210520160620/https://i.ebayimg.com/00/s/MTQ5N1gxNjAw/z/JjQAAOSw8BpgDBvR/$_57.JPG)
+  - [Image 5](https://heise.cloudimg.io/width/4959/q75.png-lossy-75.webp-lossy-75.foil1/_www-heise-de_/imgs/18/3/0/6/8/9/7/2/glasfaserfritz_114422_ea_jg_e-c0892ea42cec372e.jpeg), [Backup](https://web.archive.org/web/20210320141456/https://heise.cloudimg.io/width/4959/q75.png-lossy-75.webp-lossy-75.foil1/_www-heise-de_/imgs/18/3/0/6/8/9/7/2/glasfaserfritz_114422_ea_jg_e-c0892ea42cec372e.jpeg)
+  - [Image 6](https://www.hardwareluxx.de/images/stories/newsbilder/aschilling/2016/ftth-conference-avm-3.jpg), [Backup](https://web.archive.org/web/20210520161209/https://www.hardwareluxx.de/images/stories/newsbilder/aschilling/2016/ftth-conference-avm-3.jpg)
 
 ## Devices
 
