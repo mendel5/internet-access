@@ -6,6 +6,7 @@ Telecommunication standards and technologies for internet access
 - [Standards](#standards)
 - [Devices](#devices)
 - [Misc](#misc)
+- [Images](#images)
 - [To-Do](#todo)
 
 ## Technology overview
@@ -209,7 +210,7 @@ Unterstützte DSL-Technologien
 ### Info
 - ADSL2 and VDSL1 have not been supported in Germany.
 
-### Images
+## Images
 Example images for certain technologies
 
 - DSL
