@@ -282,6 +282,8 @@ Unterstützte DSL-Technologien
 - Abschlusspunkt Linientechnik (APL)
 - Endverzweiger (EVz)
 - Telekommunikations-Anschluss-Einheit (TAE)
+- Active Optical Network (AON)
+- Passive Optical Network (PON)
 - Fibre to the curb (FTTC)
 - Fibre to the building (FTTB)
 - Fibre to the home (FTTH)
