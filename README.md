@@ -235,6 +235,7 @@ Unterstützte DSL-Technologien
 ### ITU-T G.984
 - GPON
 - https://www.itu.int/rec/T-REC-G.984.1
+- https://www.itu.int/ITU-T/recommendations/rec.aspx?rec=11495
 - https://en.wikipedia.org/wiki/G.984
 - https://www.elektronik-kompendium.de/sites/kom/1403181.htm
 
