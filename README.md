@@ -299,3 +299,4 @@ Unterstützte DSL-Technologien
 - Public switched telephone network (PSTN)
 - Public land mobile network (PLMN)
 - Teilnehmeranschlussleitung (TAL / Local loop)
+- Satellite internet, e.g. SpaceX Starlink
