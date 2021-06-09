@@ -305,3 +305,4 @@ Unterstützte DSL-Technologien
 - Public land mobile network (PLMN)
 - Teilnehmeranschlussleitung (TAL / Local loop)
 - Satellite internet, e.g. SpaceX Starlink, Eutelsat Konnect
+- Cable Modem Termination System (CMTS)
