@@ -263,6 +263,7 @@ Unterstützte DSL-Technologien
 - https://www.deskmodder.de/blog/2021/01/19/deutsche-glasfaser-unverschaemte-einschraenkungen-kosten-fuer-routerfreiheit/
 - https://www.finanztip.de/blog/nl_2021kw22/#pfp1
 - https://de.wikipedia.org/wiki/Fritz!Box-Modellliste
+- http://sites.prenninger.com/wlan/wlan-fuer-einsteiger
 
 ### Info
 - ADSL2 and VDSL1 have not been supported in Germany.
