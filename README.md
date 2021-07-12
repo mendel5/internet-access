@@ -48,6 +48,7 @@ Example images for certain technologies
 - DSL
 - https://avm.de/produkte/fritzbox/fritzbox-7590-ax/
 - https://geizhals.de/avm-fritz-box-7590-ax-a2520878.html
+- https://boxmatrix.info/wiki/FRITZ!Box_7590_AX
 
 ```
 Supported DSL standards
@@ -76,6 +77,7 @@ Changes of the 7590 AX compared to the 7590 (non-AX):
 - DSL
 - https://avm.de/produkte/fritzbox/fritzbox-7590/
 - https://geizhals.de/avm-fritz-box-7590-20002784-a1596115.html
+- https://boxmatrix.info/wiki/FRITZ!Box_7590
 
 ```
 Supported DSL standards
@@ -98,6 +100,8 @@ Supported DSL technologies
 ### Fritzbox 7490
 - DSL
 - https://geizhals.de/avm-fritz-box-7490-20002584-20002585-a992918.html
+- https://boxmatrix.info/wiki/FRITZ!Box_7490
+
 ```
 Supported DSL standards
 - DT AG 1TR112 Annex B and Annex J (ADSL / ADSL2 / ADSL2+ / VDSL2)
@@ -118,6 +122,7 @@ Supported DSL technologies
 - Cable
 - https://avm.de/produkte/fritzbox/fritzbox-6591-cable/
 - https://geizhals.de/avm-fritz-box-6591-cable-20002857-a1631879.html
+- https://boxmatrix.info/wiki/FRITZ!Box_6591_Cable
 
 ```
 Supported cable standards
@@ -130,6 +135,7 @@ Supported cable standards
 - Fiber
 - https://avm.de/produkte/fritzbox/fritzbox-5530-fiber/
 - https://geizhals.de/avm-fritz-box-5530-a2127125.html
+- https://boxmatrix.info/wiki/FRITZ!Box_5530_Fiber
 
 ```
 Supported fiber standards
@@ -147,6 +153,7 @@ Supported fiber standards
 - LTE
 - https://avm.de/produkte/fritzbox/fritzbox-6890-lte/
 - https://geizhals.de/avm-fritz-box-6890-lte-20002817-a1680140.html
+- https://boxmatrix.info/wiki/FRITZ!Box_6890_LTE_v2
 
 ```
 # Mobile network
