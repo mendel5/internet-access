@@ -70,8 +70,9 @@ Changes of the 7590 AX compared to the 7590 (non-AX):
 > Das xDSL-Modem unterstützt kein ADSL1 (max. 8 MBit/s) mehr.
 > Auch läuft das Gerät an keiner der noch wenigen verbliebenen ISDN-Amtsleitungen.
 ```
-- Source: https://avm.de/service/fritzbox/fritzbox-7590-ax/wissensdatenbank/publication/show/37_Unterstutzte-DSL-Anschlusse/
-- Source: https://www.heise.de/news/Fritzbox-7590-AX-AVMs-erster-WLAN-Router-mit-Wi-Fi-6-und-4-MIMO-Streams-6035850.html
+Sources:
+- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7590-AX/37_Unterstutzte-DSL-Anschlusse/
+- https://www.heise.de/news/Fritzbox-7590-AX-AVMs-erster-WLAN-Router-mit-Wi-Fi-6-und-4-MIMO-Streams-6035850.html
 
 ### Fritzbox 7590
 - DSL
@@ -95,7 +96,29 @@ Supported DSL technologies
 - ADSL Rate Adaptive Mode (RAM)
 - ADSL Downstream Power Back Off (DPBO)
 ```
-- Source: https://avm.de/service/fritzbox/fritzbox-7590/wissensdatenbank/publication/show/37_Unterstutzte-DSL-Anschlusse/
+Source:
+- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7590/37_Unterstutzte-DSL-Anschlusse/
+
+### Fritzbox 7583
+- DSL
+- https://avm.de/produkte/fritzbox/fritzbox-7583/
+- https://geizhals.de/avm-fritz-box-7583-20002847-a1776713.html
+- https://boxmatrix.info/wiki/FRITZ!Box_7583
+- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7583/37_Unterstutzte-DSL-Anschlusse/
+
+### Fritzbox 7530 AX
+- DSL
+- https://avm.de/produkte/fritzbox/fritzbox-7530-ax/
+- https://geizhals.de/avm-fritz-box-7530-ax-a2411180.html
+- https://boxmatrix.info/wiki/FRITZ!Box_7530_AX
+- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7530-AX/37_Unterstutzte-DSL-Anschlusse/
+
+### Fritzbox 7530
+- DSL
+- https://avm.de/produkte/fritzbox/fritzbox-7530/
+- https://geizhals.de/avm-fritz-box-7530-20002839-a1876917.html
+- https://boxmatrix.info/wiki/FRITZ!Box_7530
+- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7530/37_Unterstutzte-DSL-Anschlusse/
 
 ### Fritzbox 7490
 - DSL
@@ -116,7 +139,8 @@ Supported DSL technologies
 - ADSL Rate Adaptive Mode (RAM)
 - ADSL Downstream Power Back Off (DPBO)
 ```
-- Source: https://avm.de/service/fritzbox/fritzbox-7490/wissensdatenbank/publication/show/37_Unterstutzte-DSL-Anschlusse/
+Source:
+- https://avm.de/service/fritzbox/fritzbox-7490/wissensdatenbank/publication/show/37_Unterstutzte-DSL-Anschlusse/
 
 ### Fritzbox 6591
 - Cable
@@ -129,7 +153,12 @@ Supported cable standards
 - DOCSIS 3.1 (ITU-T J.222)
 - EuroDOCSIS 3.0
 ```
-- Source: https://avm.de/service/fritzbox/fritzbox-6591-cable/wissensdatenbank/publication/show/37_Unterstutzte-Kabelanschlusse/
+Source:
+- https://avm.de/service/fritzbox/fritzbox-6591-cable/wissensdatenbank/publication/show/37_Unterstutzte-Kabelanschlusse/
+
+### Fritzbox 6660
+- Cable
+- https://avm.de/produkte/fritzbox/fritzbox-6660-cable/
 
 ### Fritzbox 5530
 - Fiber
@@ -147,10 +176,11 @@ Supported fiber standards
 - Turbo Mode ePON
 - 1000BASE-BX10
 ```
-- Source: https://avm.de/service/fritzbox/fritzbox-5530-fiber/wissensdatenbank/publication/show/37_Unterstutzte-Glasfaseranschlusse/
+Source:
+- https://avm.de/service/fritzbox/fritzbox-5530-fiber/wissensdatenbank/publication/show/37_Unterstutzte-Glasfaseranschlusse/
 
 ### Fritzbox 6890
-- LTE
+- DSL, LTE
 - https://avm.de/produkte/fritzbox/fritzbox-6890-lte/
 - https://geizhals.de/avm-fritz-box-6890-lte-20002817-a1680140.html
 - https://boxmatrix.info/wiki/FRITZ!Box_6890_LTE_v2
@@ -186,7 +216,8 @@ Unterstützte DSL-Technologien
 - ADSL Rate Adaptive Mode (RAM)
 - ADSL Downstream Power Back Off (DPBO)
 ```
-- Source: https://avm.de/service/fritzbox/fritzbox-6890-lte/wissensdatenbank/publication/show/37_Unterstutzte-Internetanschlusse/
+Source:
+- https://avm.de/service/fritzbox/fritzbox-6890-lte/wissensdatenbank/publication/show/37_Unterstutzte-Internetanschlusse/
 
 ## Standards
 
