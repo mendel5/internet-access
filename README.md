@@ -140,7 +140,7 @@ Supported DSL technologies
 - ADSL Downstream Power Back Off (DPBO)
 ```
 Source:
-- https://avm.de/service/fritzbox/fritzbox-7490/wissensdatenbank/publication/show/37_Unterstutzte-DSL-Anschlusse/
+- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7490/37_Unterstutzte-DSL-Anschlusse/
 
 ### Fritzbox 6591
 - Cable
@@ -154,11 +154,14 @@ Supported cable standards
 - EuroDOCSIS 3.0
 ```
 Source:
-- https://avm.de/service/fritzbox/fritzbox-6591-cable/wissensdatenbank/publication/show/37_Unterstutzte-Kabelanschlusse/
+- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-6591-Cable/37_Unterstutzte-Kabelanschlusse/
 
 ### Fritzbox 6660
 - Cable
 - https://avm.de/produkte/fritzbox/fritzbox-6660-cable/
+- https://geizhals.de/avm-fritz-box-6660-cable-a2127145.html
+- https://boxmatrix.info/wiki/FRITZ!Box_6660_Cable
+- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-6660-Cable/37_Unterstutzte-Kabelanschlusse/
 
 ### Fritzbox 5530
 - Fiber
@@ -177,7 +180,7 @@ Supported fiber standards
 - 1000BASE-BX10
 ```
 Source:
-- https://avm.de/service/fritzbox/fritzbox-5530-fiber/wissensdatenbank/publication/show/37_Unterstutzte-Glasfaseranschlusse/
+- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-5530/37_Unterstutzte-Glasfaseranschlusse/
 
 ### Fritzbox 6890
 - DSL, LTE
@@ -217,7 +220,7 @@ Unterstützte DSL-Technologien
 - ADSL Downstream Power Back Off (DPBO)
 ```
 Source:
-- https://avm.de/service/fritzbox/fritzbox-6890-lte/wissensdatenbank/publication/show/37_Unterstutzte-Internetanschlusse/
+- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-6890-LTE/37_Unterstutzte-Internetanschlusse/
 
 ## Standards
 
