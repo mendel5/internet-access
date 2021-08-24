@@ -29,6 +29,8 @@ Example images for certain technologies
   - [Image 2](https://images.gutefrage.net/media/fragen/bilder/dsl-dose-ab-wo-kommen-die-zwei-kabel-hin/1_big.jpg), [Backup](https://web.archive.org/web/20210520152944/https://images.gutefrage.net/media/fragen/bilder/dsl-dose-ab-wo-kommen-die-zwei-kabel-hin/1_big.jpg)
   - [Image 3](https://www.lteforum.at/attachments/201908-jpg.20482/), [Backup](https://web.archive.org/web/20210520160625/https://www.lteforum.at/attachments/201908-jpg.20482/)
   - [Image 4](https://abload.de/img/img_20170525_135903krsd9.jpg), [Backup](https://web.archive.org/web/20210520152647/https://abload.de/img/img_20170525_135903krsd9.jpg)
+  - [Image 5](https://www.teltarif.de/img/arch/2017/kw06/speisespannung-tae-telekom-all-ip-1l1.jpg), [Backup](https://archive.is/C11Tl)
+  - [Image 6](https://www.itwissen.info/lex-images/tae-f-stecker-fuer-telefonie.png), [Backup](https://archive.is/rf1Hm)
 - Cable (TV cable)
   - [Image 1](https://upload.wikimedia.org/wikipedia/commons/0/08/Coaxial_cable_cut.jpg), [Backup](https://web.archive.org/web/20210520160609/https://upload.wikimedia.org/wikipedia/commons/0/08/Coaxial_cable_cut.jpg)
   - [Image 2](https://www.ksb.com/blob/187668/64ee1e774109a17f87644d59f84fa568/koaxialkabel-1-data.jpg), [Backup](https://web.archive.org/web/20210520160607/https://www.ksb.com/blob/187668/64ee1e774109a17f87644d59f84fa568/koaxialkabel-1-data.jpg)
