@@ -1,6 +1,8 @@
 # internet-access
 Telecommunication standards and technologies for internet access
 
+Note: The content is focused on Germany and may not be applicable to other countries.
+
 ## Contents
 - [Technology overview](#technology-overview)
 - [Images](#images)
