@@ -308,7 +308,7 @@ Source:
 - https://de.wikipedia.org/wiki/Fritz!Box-Modellliste
 - http://sites.prenninger.com/wlan/wlan-fuer-einsteiger
 
-### Coverage Map
+### Coverage Maps
 - Telekom Old Coverage map: https://t-map.telekom.de/tmap/resources/apps/coverage_checker/index.html
 - Telekom New Coverage map: https://t-map.telekom.de/tmap2/coverage_checker/
 - Telekom Coverage info: https://www.telekom.de/netz/mobilfunk-netzausbau
