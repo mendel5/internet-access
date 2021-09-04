@@ -301,14 +301,19 @@ Source:
 - https://kompendium.infotip.de/dsl-technik.html
 - https://news.ycombinator.com/item?id=27171860
 - https://fabiensanglard.net/lte/index.html
-- https://t-map.telekom.de/tmap/resources/apps/coverage_checker/index.html - Old Telekom Coverage map
-- https://t-map.telekom.de/tmap2/coverage_checker/ - New Telekom Coverage map
 - https://www.birnstiel.de/glasfaser/
 - https://www.glasfaser-internet.info/technik/aon-pon-gpon.html
 - https://www.deskmodder.de/blog/2021/01/19/deutsche-glasfaser-unverschaemte-einschraenkungen-kosten-fuer-routerfreiheit/
 - https://www.finanztip.de/blog/nl_2021kw22/#pfp1
 - https://de.wikipedia.org/wiki/Fritz!Box-Modellliste
 - http://sites.prenninger.com/wlan/wlan-fuer-einsteiger
+
+### Coverage Map
+- Telekom Old Coverage map: https://t-map.telekom.de/tmap/resources/apps/coverage_checker/index.html
+- Telekom New Coverage map: https://t-map.telekom.de/tmap2/coverage_checker/
+- Telekom Coverage info: https://www.telekom.de/netz/mobilfunk-netzausbau
+- Vodafone Coverage map: https://netmap.vodafone.de/cokart-client/index.html?lang=de&app=cokart_4x
+- Vodafone Coverage info: https://www.vodafone.de/hilfe/netzabdeckung.html
 
 ### Info
 - ADSL2 and VDSL1 have not been supported in Germany.
