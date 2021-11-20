@@ -307,6 +307,7 @@ Source:
 - https://www.finanztip.de/blog/nl_2021kw22/#pfp1
 - https://de.wikipedia.org/wiki/Fritz!Box-Modellliste
 - http://sites.prenninger.com/wlan/wlan-fuer-einsteiger
+- https://www.heise.de/ct/artikel/Volles-Rohr-287180.html
 
 ### Coverage Maps
 - Telekom Old Coverage map: https://t-map.telekom.de/tmap/resources/apps/coverage_checker/index.html
