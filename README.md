@@ -310,8 +310,8 @@ Source:
 - https://www.heise.de/ct/artikel/Volles-Rohr-287180.html
 
 ### Coverage Maps
-- Telekom Old Coverage map: https://t-map.telekom.de/tmap/resources/apps/coverage_checker/index.html
 - Telekom New Coverage map: https://t-map.telekom.de/tmap2/coverage_checker/
+- Telekom Old Coverage map: https://t-map.telekom.de/tmap/resources/apps/coverage_checker/index.html
 - Telekom Coverage info: https://www.telekom.de/netz/mobilfunk-netzausbau
 - Vodafone Coverage map: https://netmap.vodafone.de/cokart-client/index.html?lang=de&app=cokart_4x
 - Vodafone Coverage info: https://www.vodafone.de/hilfe/netzabdeckung.html
