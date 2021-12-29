@@ -319,6 +319,13 @@ Source:
 ### Info
 - ADSL2 and VDSL1 have not been supported in Germany.
 
+### Mobile voice codecs
+- https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec AMR (AMR Narrow Band)
+- https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_Wideband AMR-WB (AMR Wide Band)
+- https://en.wikipedia.org/wiki/Enhanced_Voice_Services EVS (Superwideband)
+- Source: https://www.youtube.com/watch?v=D9SyjzV1Zlc Rohde Schwarz VoNR
+- Source: https://www.crealog.com/de/blog-news/news/evs-der-codec-fuer-bessere-akustische-qualitaet-in-allen-netzen/
+
 ## Todo
 
 ### List
