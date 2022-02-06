@@ -1,7 +1,7 @@
 # internet-access
 Telecommunication standards and technologies for internet access
 
-Note: The content is focused on Germany.
+Note: Some content is focused on Germany.
 
 ## Contents
 - [Technology overview](#technology-overview)
