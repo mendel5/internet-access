@@ -47,7 +47,6 @@ Example images for certain technologies
   - [Image 6](https://www.hardwareluxx.de/images/stories/newsbilder/aschilling/2016/ftth-conference-avm-3.jpg), [Backup](https://web.archive.org/web/20210520161209/https://www.hardwareluxx.de/images/stories/newsbilder/aschilling/2016/ftth-conference-avm-3.jpg)
 
 ## Devices
-
 ### Fritzbox 7590 AX
 - DSL
 - https://avm.de/produkte/fritzbox/fritzbox-7590-ax/
@@ -290,9 +289,8 @@ Source:
 - https://www.itu.int/itu-t/recommendations/rec.aspx?rec=13076
 - https://en.wikipedia.org/wiki/G.652
 
-## Misc
-
-### Links
+## Links
+### General
 - https://www.nokia.com/about-us/newsroom/articles/open-ran-explained/
 - https://wade4wireless.com/2018/07/05/what-are-open-ran-systems-pros-and-cons/
 - https://www.golem.de/news/netzwerke-warum-5g-nicht-das-bessere-wi-fi-ist-1912-145178.html
@@ -327,8 +325,6 @@ Source:
 - Source: https://www.crealog.com/de/blog-news/news/evs-der-codec-fuer-bessere-akustische-qualitaet-in-allen-netzen/
 
 ## Todo
-
-### List
 - Broadband Network Gateway (BNG)
 - Rate Adaptive Mode (RAM)
 - Downstream Power Backoff (DPBO), G.997.1
