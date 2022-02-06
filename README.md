@@ -47,7 +47,7 @@ Example images for certain technologies
   - [Image 6](https://www.hardwareluxx.de/images/stories/newsbilder/aschilling/2016/ftth-conference-avm-3.jpg), [Backup](https://web.archive.org/web/20210520161209/https://www.hardwareluxx.de/images/stories/newsbilder/aschilling/2016/ftth-conference-avm-3.jpg)
 
 ## Devices
-### Fritzbox 7590 AX
+### Fritzbox 7590 AX DSL
 - DSL
 - https://avm.de/produkte/fritzbox/fritzbox-7590-ax/
 - https://geizhals.de/avm-fritz-box-7590-ax-a2520878.html
@@ -77,7 +77,7 @@ Sources:
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7590-AX/37_Unterstutzte-DSL-Anschlusse/
 - https://www.heise.de/news/Fritzbox-7590-AX-AVMs-erster-WLAN-Router-mit-Wi-Fi-6-und-4-MIMO-Streams-6035850.html
 
-### Fritzbox 7590
+### Fritzbox 7590 DSL
 - DSL
 - https://avm.de/produkte/fritzbox/fritzbox-7590/
 - https://geizhals.de/avm-fritz-box-7590-20002784-a1596115.html
@@ -102,28 +102,28 @@ Supported DSL technologies
 Source:
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7590/37_Unterstutzte-DSL-Anschlusse/
 
-### Fritzbox 7583
+### Fritzbox 7583 DSL
 - DSL
 - https://avm.de/produkte/fritzbox/fritzbox-7583/
 - https://geizhals.de/avm-fritz-box-7583-20002847-a1776713.html
 - https://boxmatrix.info/wiki/FRITZ!Box_7583
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7583/37_Unterstutzte-DSL-Anschlusse/
 
-### Fritzbox 7530 AX
+### Fritzbox 7530 AX DSL
 - DSL
 - https://avm.de/produkte/fritzbox/fritzbox-7530-ax/
 - https://geizhals.de/avm-fritz-box-7530-ax-a2411180.html
 - https://boxmatrix.info/wiki/FRITZ!Box_7530_AX
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7530-AX/37_Unterstutzte-DSL-Anschlusse/
 
-### Fritzbox 7530
+### Fritzbox 7530 DSL
 - DSL
 - https://avm.de/produkte/fritzbox/fritzbox-7530/
 - https://geizhals.de/avm-fritz-box-7530-20002839-a1876917.html
 - https://boxmatrix.info/wiki/FRITZ!Box_7530
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7530/37_Unterstutzte-DSL-Anschlusse/
 
-### Fritzbox 7490
+### Fritzbox 7490 DSL
 - DSL
 - https://geizhals.de/avm-fritz-box-7490-20002584-20002585-a992918.html
 - https://boxmatrix.info/wiki/FRITZ!Box_7490
@@ -145,7 +145,13 @@ Supported DSL technologies
 Source:
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7490/37_Unterstutzte-DSL-Anschlusse/
 
-### Fritzbox 6591
+### Fritzbox 6690 Cable
+- Cable
+- https://avm.de/produkte/fritzbox/fritzbox-6690-cable/
+- https://geizhals.de/avm-fritz-box-6690-cable-a2627283.html
+- https://boxmatrix.info/wiki/FRITZ!Box_6690_Cable
+
+### Fritzbox 6591 Cable
 - Cable
 - https://avm.de/produkte/fritzbox/fritzbox-6591-cable/
 - https://geizhals.de/avm-fritz-box-6591-cable-20002857-a1631879.html
@@ -159,14 +165,14 @@ Supported cable standards
 Source:
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-6591-Cable/37_Unterstutzte-Kabelanschlusse/
 
-### Fritzbox 6660
+### Fritzbox 6660 Cable
 - Cable
 - https://avm.de/produkte/fritzbox/fritzbox-6660-cable/
 - https://geizhals.de/avm-fritz-box-6660-cable-a2127145.html
 - https://boxmatrix.info/wiki/FRITZ!Box_6660_Cable
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-6660-Cable/37_Unterstutzte-Kabelanschlusse/
 
-### Fritzbox 5530
+### Fritzbox 5530 Fiber
 - Fiber
 - https://avm.de/produkte/fritzbox/fritzbox-5530-fiber/
 - https://geizhals.de/avm-fritz-box-5530-a2127125.html
@@ -185,7 +191,7 @@ Supported fiber standards
 Source:
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-5530/37_Unterstutzte-Glasfaseranschlusse/
 
-### Fritzbox 6890
+### Fritzbox 6890 DSL LTE
 - DSL, LTE
 - https://avm.de/produkte/fritzbox/fritzbox-6890-lte/
 - https://geizhals.de/avm-fritz-box-6890-lte-20002817-a1680140.html
