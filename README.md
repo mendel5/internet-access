@@ -235,6 +235,12 @@ Unterstützte DSL-Technologien
 Source:
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-6890-LTE/37_Unterstutzte-Internetanschlusse/
 
+### Fritzbox 6850 5G
+- https://avm.de/produkte/fritzbox/fritzbox-6850-5g/
+
+### Fritzbox 6850 LTE
+- https://avm.de/produkte/fritzbox/fritzbox-6850-lte/
+
 ## Standards
 
 ### DT AG 1TR112
