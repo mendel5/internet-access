@@ -172,6 +172,10 @@ Source:
 - https://boxmatrix.info/wiki/FRITZ!Box_6660_Cable
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-6660-Cable/37_Unterstutzte-Kabelanschlusse/
 
+### Fritzbox 5590 Fiber
+- Fiber
+- https://www.heise.de/news/Fritzbox-5590-Fiber-Glasfaser-Router-mit-Wi-Fi-6-und-jetzt-auch-USB-6522897.html
+
 ### Fritzbox 5530 Fiber
 - Fiber
 - https://avm.de/produkte/fritzbox/fritzbox-5530-fiber/
