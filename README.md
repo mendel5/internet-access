@@ -239,9 +239,13 @@ Source:
 
 ### Fritzbox 6850 5G
 - https://avm.de/produkte/fritzbox/fritzbox-6850-5g/
+- https://geizhals.de/avm-fritz-box-6850-5g-a2127165.html
+- https://boxmatrix.info/wiki/FRITZ!Box_6850_5G
 
 ### Fritzbox 6850 LTE
 - https://avm.de/produkte/fritzbox/fritzbox-6850-lte/
+- https://geizhals.de/avm-fritz-box-6850-lte-a2343675.html
+- https://boxmatrix.info/wiki/FRITZ!Box_6850_LTE
 
 ## Standards
 
