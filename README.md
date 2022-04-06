@@ -150,6 +150,7 @@ Source:
 - https://avm.de/produkte/fritzbox/fritzbox-6690-cable/
 - https://geizhals.de/avm-fritz-box-6690-cable-a2627283.html
 - https://boxmatrix.info/wiki/FRITZ!Box_6690_Cable
+- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-6690-Cable/37_Unterstutzte-Kabelanschlusse/
 
 ### Fritzbox 6591 Cable
 - Cable
@@ -241,11 +242,13 @@ Source:
 - https://avm.de/produkte/fritzbox/fritzbox-6850-5g/
 - https://geizhals.de/avm-fritz-box-6850-5g-a2127165.html
 - https://boxmatrix.info/wiki/FRITZ!Box_6850_5G
+- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-6850-5G/37_Unterstutzte-Mobilfunknetze/
 
 ### Fritzbox 6850 LTE
 - https://avm.de/produkte/fritzbox/fritzbox-6850-lte/
 - https://geizhals.de/avm-fritz-box-6850-lte-a2343675.html
 - https://boxmatrix.info/wiki/FRITZ!Box_6850_LTE
+- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-6850-LTE/37_Unterstutzte-Mobilfunknetze/
 
 ## Standards
 
