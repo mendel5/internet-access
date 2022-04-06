@@ -174,6 +174,8 @@ Source:
 
 ### Fritzbox 5590 Fiber
 - Fiber
+- https://geizhals.de/avm-fritz-box-5590-fiber-a2685109.html
+- https://boxmatrix.info/wiki/FRITZ!Box_5590_Fiber
 - https://www.heise.de/news/Fritzbox-5590-Fiber-Glasfaser-Router-mit-Wi-Fi-6-und-jetzt-auch-USB-6522897.html
 
 ### Fritzbox 5530 Fiber
