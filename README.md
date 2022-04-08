@@ -152,6 +152,13 @@ Source:
 - https://boxmatrix.info/wiki/FRITZ!Box_6690_Cable
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-6690-Cable/37_Unterstutzte-Kabelanschlusse/
 
+### Fritzbox 6660 Cable
+- Cable
+- https://avm.de/produkte/fritzbox/fritzbox-6660-cable/
+- https://geizhals.de/avm-fritz-box-6660-cable-a2127145.html
+- https://boxmatrix.info/wiki/FRITZ!Box_6660_Cable
+- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-6660-Cable/37_Unterstutzte-Kabelanschlusse/
+
 ### Fritzbox 6591 Cable
 - Cable
 - https://avm.de/produkte/fritzbox/fritzbox-6591-cable/
@@ -165,13 +172,6 @@ Supported cable standards
 ```
 Source:
 - https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-6591-Cable/37_Unterstutzte-Kabelanschlusse/
-
-### Fritzbox 6660 Cable
-- Cable
-- https://avm.de/produkte/fritzbox/fritzbox-6660-cable/
-- https://geizhals.de/avm-fritz-box-6660-cable-a2127145.html
-- https://boxmatrix.info/wiki/FRITZ!Box_6660_Cable
-- https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-6660-Cable/37_Unterstutzte-Kabelanschlusse/
 
 ### Fritzbox 5590 Fiber
 - Fiber
