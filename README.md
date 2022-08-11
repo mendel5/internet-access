@@ -46,6 +46,11 @@ Example images for certain technologies
   - [Image 5](https://heise.cloudimg.io/width/4959/q75.png-lossy-75.webp-lossy-75.foil1/_www-heise-de_/imgs/18/3/0/6/8/9/7/2/glasfaserfritz_114422_ea_jg_e-c0892ea42cec372e.jpeg), [Backup](https://web.archive.org/web/20210320141456/https://heise.cloudimg.io/width/4959/q75.png-lossy-75.webp-lossy-75.foil1/_www-heise-de_/imgs/18/3/0/6/8/9/7/2/glasfaserfritz_114422_ea_jg_e-c0892ea42cec372e.jpeg)
   - [Image 6](https://www.hardwareluxx.de/images/stories/newsbilder/aschilling/2016/ftth-conference-avm-3.jpg), [Backup](https://web.archive.org/web/20210520161209/https://www.hardwareluxx.de/images/stories/newsbilder/aschilling/2016/ftth-conference-avm-3.jpg)
 
+## AVM Fritz Links
+- https://de.wikipedia.org/wiki/Fritz!Box-Modellliste
+- https://avm.de/service/update-news/neueste-updates-der-fritz-produkte/ Neueste Updates der FRITZ!-Produkte
+- https://avm.de/service/status-der-produktunterstuetzung/fritzbox/ Status der Produktunterstützung
+
 ## Devices
 ### Fritzbox 7590 AX DSL
 - DSL
