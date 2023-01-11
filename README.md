@@ -5,6 +5,7 @@ Note: Some content is focused on Germany.
 
 ## See also
 - https://github.com/mendel5/telekom
+- https://github.com/mendel5/glasfaser
 
 ## Technology overview
 - DSL: https://en.wikipedia.org/wiki/Digital_subscriber_line#DSL_technologies and https://de.wikipedia.org/wiki/Digital_Subscriber_Line#DSL-Varianten
