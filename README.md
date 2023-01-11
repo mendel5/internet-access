@@ -3,13 +3,8 @@ Telecommunication standards and technologies for internet access
 
 Note: Some content is focused on Germany.
 
-## Contents
-- [Technology overview](#technology-overview)
-- [Images](#images)
-- [Devices](#devices)
-- [Standards](#standards)
-- [Misc](#misc)
-- [To-Do](#todo)
+## See also
+- https://github.com/mendel5/telekom
 
 ## Technology overview
 - DSL: https://en.wikipedia.org/wiki/Digital_subscriber_line#DSL_technologies and https://de.wikipedia.org/wiki/Digital_Subscriber_Line#DSL-Varianten
