@@ -333,6 +333,8 @@ Source:
 - https://de.wikipedia.org/wiki/Fritz!Box-Modellliste
 - http://sites.prenninger.com/wlan/wlan-fuer-einsteiger
 - https://www.heise.de/ct/artikel/Volles-Rohr-287180.html
+- http://en.techinfodepot.shoutwiki.com/wiki/Main_Page
+- https://wikidevi.wi-cat.ru/Main_Page
 
 ### Coverage Maps
 - Telekom New Coverage map: https://t-map.telekom.de/tmap2/coverage_checker/
