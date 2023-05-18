@@ -353,6 +353,10 @@ Source:
 - Source: https://www.youtube.com/watch?v=D9SyjzV1Zlc Rohde Schwarz VoNR
 - Source: https://www.crealog.com/de/blog-news/news/evs-der-codec-fuer-bessere-akustische-qualitaet-in-allen-netzen/
 
+### Bundesnetzagentur
+- https://www.bundesnetzagentur.de/DE/Vportal/TK/Funktechnik/EMF/start.html Bundesnetzagentur Mobilfunk Karte Elektromagnetische Felder (EMF)
+- https://www.bundesnetzagentur.de/DE/Fachthemen/Telekommunikation/Technik/EMF/start.html Bundesnetzagentur EMF Monitoring
+
 ## Todo
 - Broadband Network Gateway (BNG)
 - Rate Adaptive Mode (RAM)
