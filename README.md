@@ -335,7 +335,7 @@ Source:
 - https://www.heise.de/ct/artikel/Volles-Rohr-287180.html
 - http://en.techinfodepot.shoutwiki.com/wiki/Main_Page
 - https://wikidevi.wi-cat.ru/Main_Page
-- https://www.duckware.com/tech/wifi-in-the-us.html Wi-Fi 4/5/6/6E/7 (802.11 n/ac/ax/be)
+- https://www.duckware.com/tech/wifi-in-the-us.html Wi-Fi 4/5/6/6E/7 (802.11 n/ac/ax/be), WiFi WLAN
 
 ### Coverage Maps
 - Telekom New Coverage map: https://t-map.telekom.de/tmap2/coverage_checker/
