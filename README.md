@@ -344,6 +344,10 @@ Source:
 - Vodafone Coverage map: https://netmap.vodafone.de/cokart-client/index.html?lang=de&app=cokart_4x
 - Vodafone Coverage info: https://www.vodafone.de/hilfe/netzabdeckung.html
 
+### Cellular Towers and Signal Maps
+- Cellmapper: https://www.cellmapper.net/map
+- https://www.similarweb.com/website/cellmapper.net/competitors/
+
 ### Info
 - ADSL2 and VDSL1 have not been supported in Germany.
 
