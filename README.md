@@ -3,7 +3,7 @@ Telecommunication standards and technologies for internet access
 
 Note: Some content is focused on Germany.
 
-## See also
+See also / Siehe auch:
 - https://github.com/mendel5/telekom
 - https://github.com/mendel5/glasfaser
 
