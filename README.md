@@ -49,6 +49,7 @@ Example images for certain technologies
 - https://de.wikipedia.org/wiki/Fritz!Box-Modellliste
 - https://avm.de/service/update-news/neueste-updates-der-fritz-produkte/ Neueste Updates der FRITZ!-Produkte
 - https://avm.de/service/status-der-produktunterstuetzung/fritzbox/ Status der Produktunterstützung
+- https://boxmatrix.info/wiki/BoxMatrix
 
 ## Devices
 ### Fritzbox 7590 AX DSL
