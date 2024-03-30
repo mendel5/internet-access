@@ -353,7 +353,12 @@ Source:
 - https://www.similarweb.com/website/cellmapper.net/competitors/
 
 ### Info
-- ADSL2 and VDSL1 have not been supported in Germany.
+- ADSL2 has never been supported in Germany.
+  - https://www.elektronik-kompendium.de/sites/kom/1005161.htm ADSL2
+  - https://www.elektronik-kompendium.de/sites/kom/1302121.htm ADSL2+
+- VDSL1 has never been supported in Germany.
+  - https://www.elektronik-kompendium.de/sites/kom/0305237.htm VDSL
+  - https://www.elektronik-kompendium.de/sites/kom/1911061.htm VDSL2
 
 ### Mobile voice codecs
 - https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec AMR (AMR Narrow Band)
