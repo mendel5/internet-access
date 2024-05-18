@@ -12,11 +12,13 @@ See also / Siehe auch:
 
 ### Früher 1
 - Wählleitung (auch Einwahlverbindung), englisch Dial-up Internet access
+- Sprache und Daten über analoges Signal
 - https://de.wikipedia.org/wiki/W%C3%A4hlleitung
 - https://en.wikipedia.org/wiki/Dial-up_Internet_access
 
 ### Früher 2
 - ISDN
+- Sprache und Daten über digitales Signal
 - https://de.wikipedia.org/wiki/Integrated_Services_Digital_Network
 
 ### Früher 3
@@ -26,6 +28,7 @@ See also / Siehe auch:
 - https://de.wikipedia.org/wiki/Network_Termination_for_ISDN_Basic_rate_Access
 
 ### Heute
+- DSL (VOIP) oder Glasfaser
 - Router (z.B. Fritzbox) mit integrierter Firewall und Network address translation (NAT)
 - https://en.wikipedia.org/wiki/Network_address_translation
 
