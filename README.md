@@ -14,7 +14,7 @@ See also / Siehe auch:
 - Wählleitung (auch Einwahlverbindung), englisch Dial-up Internet access
 - Sprache und Daten über analoges Signal
 - https://de.wikipedia.org/wiki/W%C3%A4hlleitung
-- https://en.wikipedia.org/wiki/Dial-up_Internet_access
+- https://en.wikipedia.org/wiki/Dial-up_Internet_access (siehe Ton hier)
 
 ### Früher 2
 - ISDN
