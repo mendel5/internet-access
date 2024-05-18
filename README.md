@@ -7,6 +7,17 @@ See also / Siehe auch:
 - https://github.com/mendel5/telekom
 - https://github.com/mendel5/glasfaser
 
+## Früher und heute
+- https://www.webopedia.com/reference/internet-connection-types/
+
+### Früher
+- Wählleitung (auch Einwahlverbindung), englisch Dial-up Internet access
+- https://en.wikipedia.org/wiki/Dial-up_Internet_access
+
+### Heute
+- Router (z.B. Fritzbox) mit integrierter Firewall und Network address translation (NAT)
+- https://en.wikipedia.org/wiki/Network_address_translation
+
 ## Technology overview
 - DSL: https://en.wikipedia.org/wiki/Digital_subscriber_line#DSL_technologies and https://de.wikipedia.org/wiki/Digital_Subscriber_Line#DSL-Varianten
 - Cable (TV cable): https://en.wikipedia.org/wiki/DOCSIS#Versions
