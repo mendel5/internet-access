@@ -10,10 +10,20 @@ See also / Siehe auch:
 ## Früher und heute
 - https://www.webopedia.com/reference/internet-connection-types/
 
-### Früher
+### Früher 1
 - Wählleitung (auch Einwahlverbindung), englisch Dial-up Internet access
 - https://de.wikipedia.org/wiki/W%C3%A4hlleitung
 - https://en.wikipedia.org/wiki/Dial-up_Internet_access
+
+### Früher 2
+- ISDN
+- https://de.wikipedia.org/wiki/Integrated_Services_Digital_Network
+
+### Früher 3
+- ISDN und DSL
+- Benötigt einen DSL-Splitter und einen NTBA (Network Termination for ISDN Basic rate Access)
+- https://de.wikipedia.org/wiki/DSL-Splitter
+- https://de.wikipedia.org/wiki/Network_Termination_for_ISDN_Basic_rate_Access
 
 ### Heute
 - Router (z.B. Fritzbox) mit integrierter Firewall und Network address translation (NAT)
