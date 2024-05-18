@@ -12,6 +12,7 @@ See also / Siehe auch:
 
 ### Früher
 - Wählleitung (auch Einwahlverbindung), englisch Dial-up Internet access
+- https://de.wikipedia.org/wiki/W%C3%A4hlleitung
 - https://en.wikipedia.org/wiki/Dial-up_Internet_access
 
 ### Heute
